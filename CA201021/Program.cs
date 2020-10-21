@@ -14,6 +14,7 @@ namespace CA201021
                 Console.Write($"{t[i]}, ");
             }
             Console.WriteLine("cica");
+            Console.WriteLine("még egy sor");
             Console.ReadKey();
         }
     }

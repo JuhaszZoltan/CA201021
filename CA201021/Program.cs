@@ -13,6 +13,7 @@ namespace CA201021
                 t[i] = rnd.Next(10, 100);
                 Console.Write($"{t[i]}, ");
             }
+            Console.WriteLine("cica");
             Console.ReadKey();
         }
     }
